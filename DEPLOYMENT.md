@@ -165,4 +165,5 @@ If you don't see any rows in the maintenance table, or the table doesn't exist, 
 
 ![Amplify Landing Page](assets/images/A4E-Deploy38.png)
 
+
 Finally, verify that all Amazon Bedrock Knowledge Base Data Sources are synchronized.  That is the final verification step.  Your Agents4Energy environment is ready to use! 
